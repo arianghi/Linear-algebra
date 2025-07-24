@@ -1,4 +1,4 @@
-# Linear-algebra
+# Linear-System-Solver
 
 ## 📌 Project Overview
 This project implements various **numerical methods for solving systems of linear equations**.
