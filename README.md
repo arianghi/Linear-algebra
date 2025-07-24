@@ -22,3 +22,7 @@ It includes:
    ```bash
    python main.py
    ```
+## 🖼️ Screenshot
+Here is a preview of the application:
+
+![App Screenshot](/Users/macuser/Documents/Screenshot 2025-07-24 at 5.49.41 PM.png)
