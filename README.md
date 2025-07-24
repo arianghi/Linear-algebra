@@ -25,6 +25,6 @@ It includes:
 ## 🖼️ Screenshot
 Here is a preview of the application:
 
-![App Screenshot](Images/Screenshot 2025-07-24 at 5.49.41 PM.png)
+![App Screenshot](Images/Screenshot_1.png)
 
-![App Screenshot](Images/Screenshot 2025-07-24 at 5.49.56 PM.png)
+![App Screenshot](Images/Screenshot_2.png)
