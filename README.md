@@ -26,5 +26,10 @@ It includes:
 Here is a preview of the application:
 
 ![App Screenshot](Images/Screenshot_1.png)
-
+select method here
+![App Screenshot](Images/Screenshot_4.png)
+input section
+![App Screenshot](Images/Screenshot_3.png)
+general info about sloution
 ![App Screenshot](Images/Screenshot_2.png)
+solution step by step
